@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SensoresFirebase</string>
+    <string name="tab_text_1">Lista Sensores</string>
+    <string name="tab_text_2">Uso de Sensores</string>
+    <string name="tab_text_3">Registro</string>
+    <string name="titulotab1">Lista de sensores del dispositivo</string>
+    <string name="sen1">Giroscopio</string>
+    <string name="sen2">Acelerometro</string>
+    <string name="sen3">Senros de Aproximidad</string>
+    <string name="sen4">Luz</string>
+    <string name="textbtn">Medir</string>
+    <string name="TituloMeSen">Sensor</string>
+    <string name="btnmesen">Comenzar</string>
+    <string name="txtx">x: -</string>
+    <string name="txty">y: -</string>
+    <string name="txtz">z: -</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
