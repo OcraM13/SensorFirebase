@@ -6,7 +6,6 @@ public class ModeloGiroscopio {
     private double z;
 
     public ModeloGiroscopio(double x, double y, double z) {
-        this.id = "0";
         this.x = x;
         this.y = y;
         this.z = z;
@@ -34,13 +33,5 @@ public class ModeloGiroscopio {
 
     public void setZ(double z) {
         this.z = z;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
     }
 }

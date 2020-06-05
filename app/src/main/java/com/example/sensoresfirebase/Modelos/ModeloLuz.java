@@ -2,21 +2,21 @@ package com.example.sensoresfirebase.Modelos;
 
 public class ModeloLuz {
     private String id;
-    double distancia;
+    double medida;
 
     public String getId() {
         return id;
     }
 
-    public double getDistancia() {
-        return distancia;
+    public double getMedida() {
+        return medida;
     }
 
-    public void setDistancia(double distancia) {
-        this.distancia = distancia;
+    public void setMedida(double medida) {
+        this.medida = medida;
     }
 
-    public ModeloLuz(double distancia) {
-        this.distancia = distancia;
+    public ModeloLuz(double medida) {
+        this.medida = medida;
     }
 }
